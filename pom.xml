@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.leandro</groupId>
-	<artifactId>crud</artifactId>
+	<artifactId>crud-person-onlyrest-mongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>crud-person-onlyrest</name>
+	<name>crud-person-onlyrest-mongodb</name>
 	<description>Study Project: Spring Boot and API REST</description>
 	<properties>
 		<java.version>11</java.version>
