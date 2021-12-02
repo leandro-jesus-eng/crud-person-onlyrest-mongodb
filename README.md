@@ -1,6 +1,5 @@
 # crud-person-onlyrest-mongodb
-
-**Study Project: Spring Boot, MongoDB, API REST, JUnit5 and MockMVC **
+**Study Project: Spring Boot, MongoDB, API REST, JUnit5 and MockMVC**
 
 Link to the Vue.js interface:
 > http://localhost/  ... TODO
